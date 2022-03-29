@@ -33,8 +33,5 @@ class MainViewModel @Inject constructor(val repository: Repository): ViewModel()
         }
 
     }
-
-
     }
-
 }
